@@ -1,0 +1,6 @@
+{
+  "name": "Natal Criativo para Imprimir",
+  "description": "Caixinhas, embalagens, sacolinhas, tags e cartões de Natal para imprimir, recortar e montar. 5 módulos + 2 bônus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
